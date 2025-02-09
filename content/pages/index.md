@@ -34,6 +34,7 @@ sections:
         textAlign: center
         fontStyle: italic
         fontWeight: 700
+        textDecoration: line-through
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
