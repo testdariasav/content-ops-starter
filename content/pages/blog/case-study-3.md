@@ -89,6 +89,7 @@ styles:
       - mt-5
       - mr-5
       - ml-5
+      - mb-5
 type: PostLayout
 ---
 
