@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Introducing Royal Teepee Party
     images:
       - url: /images/image10.jpeg
         altText: Empathy logo
