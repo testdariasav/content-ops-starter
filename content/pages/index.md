@@ -33,6 +33,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+        fontStyle: italic
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
