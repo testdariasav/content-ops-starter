@@ -88,6 +88,7 @@ styles:
     margin:
       - mt-5
       - mr-5
+      - ml-5
 type: PostLayout
 ---
 
