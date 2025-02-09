@@ -32,7 +32,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontStyle: italic
         fontWeight: 700
     type: ImageGallerySection
   - posts:
