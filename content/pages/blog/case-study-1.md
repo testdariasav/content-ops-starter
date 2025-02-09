@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Party 1
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
@@ -8,8 +8,8 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 1
+  url: /images/frozen1.jpg
+  altText: Party 1
   styles:
     self:
       borderRadius: large

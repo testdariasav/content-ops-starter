@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Patry 2
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/image15.jpeg
   altText: Case study 2
   styles:
     self:
