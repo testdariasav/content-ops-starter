@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/frozen1.jpg
-  altText: Case study 1
+  altText: Party 1
   styles:
     self:
       borderRadius: large
