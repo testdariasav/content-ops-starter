@@ -35,6 +35,10 @@ sections:
         fontWeight: 700
         fontStyle: italic
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
