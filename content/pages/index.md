@@ -7,9 +7,6 @@ sections:
       - url: /images/image6.jpeg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/image 23.jpg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/image6.jpeg
         altText: Vise logo
         type: ImageBlock
