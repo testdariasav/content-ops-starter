@@ -34,10 +34,6 @@ sections:
       type: TitleBlock
       text: Luxury Teepee Party for kids
       color: text-dark
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
