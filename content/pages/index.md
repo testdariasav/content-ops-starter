@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Introducing Royal Teepee Party
+  - subtitle: Introducing Luxury Teepee Party for kids
     images:
       - altText: Telus logo
         type: ImageBlock
@@ -20,20 +20,22 @@ sections:
         styles:
           self:
             borderRadius: medium
-    motion: move-to-right
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
       subtitle:
-        textAlign: center
-        fontWeight: 700
-        fontStyle: italic
+        textAlign: left
+        fontWeight: 400
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Luxury Teepee Party for kids
+      text: Royal Teepee Party
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -52,6 +54,10 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    title:
+      type: TitleBlock
+      text: Our tepee parties
+      color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
