@@ -13,8 +13,7 @@ sections:
       - url: /images/image6.jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/image5.jpeg
-        altText: Telus logo
+      - altText: Telus logo
         type: ImageBlock
       - url: /images/image3.jpeg
         altText: Contentful logo
