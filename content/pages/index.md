@@ -6,6 +6,7 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
+        url: /images/image19.jpeg
       - url: /images/image3.jpeg
         altText: Contentful logo
         type: ImageBlock
