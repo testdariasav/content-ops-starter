@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Introducing Royal Teepee Party
+  - subtitle: Introducing Luxury Teepee Party for kids
     images:
       - altText: Telus logo
         type: ImageBlock
