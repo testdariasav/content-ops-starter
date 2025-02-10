@@ -12,6 +12,13 @@ sections:
       - url: /images/image2.jpeg
         altText: Sanity logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-right
     colors: bg-light-fg-dark
     styles:
