@@ -4,9 +4,6 @@ slug: /
 sections:
   - subtitle: Introducing Royal Teepee Party
     images:
-      - url: /images/image6.jpeg
-        altText: Empathy logo
-        type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
       - url: /images/image3.jpeg
