@@ -6,15 +6,15 @@ sections:
     images:
       - altText: Telus logo
         type: ImageBlock
-        url: /images/image19.jpeg
-      - url: /images/image3.jpeg
+        url: /images/1.jpeg
+      - url: /images/2.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/image2.jpeg
+      - url: /images/3.jpg
         altText: Sanity logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/image18.jpeg
+        url: /images/4.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
@@ -58,16 +58,6 @@ sections:
       type: TitleBlock
       text: Our tepee parties
       color: text-dark
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
