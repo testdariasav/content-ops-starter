@@ -13,7 +13,7 @@ sections:
         altText: Sanity logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/image 23.jpg
+        url: /images/image18.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
