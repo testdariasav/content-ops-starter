@@ -31,7 +31,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Luxury Teepee Party for kids
+      text: Royal Teepee Party
       color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md
