@@ -28,7 +28,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-        fontStyle: italic
     type: ImageGallerySection
     title:
       type: TitleBlock
