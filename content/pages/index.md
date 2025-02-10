@@ -56,7 +56,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Our tepee parties
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark
