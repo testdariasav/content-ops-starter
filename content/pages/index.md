@@ -33,6 +33,9 @@ sections:
       type: TitleBlock
       text: Royal Teepee Party
       color: text-dark
+      styles:
+        self:
+          fontWeight: 400
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
