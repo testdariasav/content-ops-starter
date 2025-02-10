@@ -25,7 +25,7 @@ sections:
       - url: /images/image8.jpeg
         altText: Rangle logo
         type: ImageBlock
-    motion: static
+    motion: move-to-right
     colors: bg-light-fg-dark
     styles:
       self:
