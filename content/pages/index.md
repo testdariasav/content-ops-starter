@@ -4,28 +4,23 @@ slug: /
 sections:
   - subtitle: Introducing Royal Teepee Party
     images:
-      - url: /images/image10.jpeg
-        altText: Empathy logo
+      - altText: Telus logo
         type: ImageBlock
-      - url: /images/image 23.jpg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/image6.jpeg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/image5.jpeg
-        altText: Telus logo
-        type: ImageBlock
+        url: /images/image19.jpeg
       - url: /images/image3.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/image2.jpeg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/image8.jpeg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
+      - type: ImageBlock
+        url: /images/image18.jpeg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-right
     colors: bg-light-fg-dark
     styles:
       self:
