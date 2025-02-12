@@ -15,6 +15,6 @@ export default function MyApp({ Component, pageProps }) {
 
 import '../css/main.css';
 
-export default function MyApp({ Component, pageProps }) {
-    return <Component {...pageProps} />;
-}
+// export default function MyApp({ Component, pageProps }) {
+//     return <Component {...pageProps} />;
+// }
