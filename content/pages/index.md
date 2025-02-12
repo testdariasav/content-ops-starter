@@ -26,7 +26,7 @@ sections:
       self:
         justifyContent: center
       subtitle:
-        textAlign: left
+        textAlign: center
         fontWeight: 400
     type: ImageGallerySection
     title:
