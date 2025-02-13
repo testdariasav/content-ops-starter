@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
+/* @layer base {
     body {
         @apply text-base;
     }
@@ -21,7 +21,7 @@
         @apply break-words;
         line-height: 1.2;
     }
-}
+} */
 
 @layer components {
     .sb-markdown {
