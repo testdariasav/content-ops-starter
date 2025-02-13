@@ -8,7 +8,7 @@ const roboto = Roboto({
 })
  
 // If loading a variable font, you don't need to specify the font weight
-const inter = Inter({ subsets: ['Dancing Script'] })
+const inter = Inter({ subsets: ['latin'] })
 console.log('loading fonts')
  
 export default function MyApp({ Component, pageProps }) {
