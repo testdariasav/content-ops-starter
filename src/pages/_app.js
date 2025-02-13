@@ -3,6 +3,7 @@ import { Rochester  } from 'next/font/google'
  
 const rock = Rochester({ subsets: ['latin'], weight: '400' })
 console.log('loading fonts')
+
  
 export default function MyApp({ Component, pageProps }) {
   return (
