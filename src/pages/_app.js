@@ -1,7 +1,7 @@
 import '../css/main.css';
 import { Rochester  } from 'next/font/google'
  
-const rock = Rochester({ subsets: ['latin'], weight: '600' })
+const rock = Rochester({ subsets: ['latin'], weight: '700' })
 console.log('loading fonts')
 
  
