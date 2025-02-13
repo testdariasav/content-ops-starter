@@ -1,13 +1,12 @@
 import '../css/main.css';
 import { Rochester  } from 'next/font/google'
  
-// If loading a variable font, you don't need to specify the font weight
-const inter = Rochester({ subsets: ['latin'] })
+const rock = Rochester({ subsets: ['latin'], weight: '400' })
 console.log('loading fonts')
  
 export default function MyApp({ Component, pageProps }) {
   return (
-    <main className={roboto.className}>
+    <main className={rock.className}>
       <Component {...pageProps} />
     </main>
   )
